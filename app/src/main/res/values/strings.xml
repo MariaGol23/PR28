@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PR28</string>
+    <string name="button">Button</string>
+    <string name="_2">Переход на 2 экран</string>
+    <string name="_3">Переход на 3 экран</string>
+    <string name="number">Number</string>
+</resources>
